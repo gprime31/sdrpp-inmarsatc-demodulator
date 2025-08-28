@@ -33,7 +33,7 @@
 #define CLOCK_RECOVERY_REL_LIM 0.1f
 #define RRC_TAP_COUNT 33
 #define RRC_ALPHA 0.35f
-#define AGC_RATE 0.005f
+#define AGC_RATE 0.5f
 #define COSTAS_LOOP_BANDWIDTH 0.045f
 
 SDRPP_MOD_INFO {
